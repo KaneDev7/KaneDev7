@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oumar kane</h1>
 <h3 align="center">A passionate fullStack developer from Senegal</h3>
 
-- 🌱 I’m currently learning **React, TypeScript, Nextjs, Express , Tailwind**
-
-- 💬 Ask me about **JavaScript and React**
-
 - 📫 How to reach me **oumarkane455@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
